@@ -4,7 +4,7 @@
 *PhD Student @ Westlake University*
 
 ### 🔬 Current Focus
-- 🧬 Decoding protein dynamics with machine learning @ **Westlake AI4Science Lab**
+- 🧬 Decoding protein dynamics with machine learning @ **Guomics**
 - ⚡ Building predictive models for proteomics datasets
 
 
