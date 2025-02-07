@@ -1,5 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Zhaoxing Li (@KanyeWestForRea1)
 
+**Proteomics | Computational Biology | AI4Science**  
+*PhD Student @ Westlake University*
+
+### 🔬 Current Focus
+- 🧬 Decoding protein dynamics with machine learning @ **Westlake AI4Science Lab**
+- ⚡ Building predictive models for proteomics datasets
+
+
+> *"never a master, Always a student"*
+>
+> 
 <!--
 **KanyeWestForRea1/KanyeWestForRea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
