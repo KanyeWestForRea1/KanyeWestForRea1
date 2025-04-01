@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Zhaoxing Li (@KanyeWestForRea1)
+# 👋 Hi, I'm Zhaoxing Li
 
 **Proteomics | Computational Biology | AI4Science**  
 *PhD Student @ Westlake University*
 
 ### 🔬 Current Focus
-- 🧬 Decoding protein dynamics with machine learning @ **Guomics**
+- 🧬 Decoding protein dynamics with machine learning @ **guomics-lab**
 - ⚡ Building predictive models for proteomics datasets
 
 
