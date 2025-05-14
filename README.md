@@ -3,11 +3,7 @@
 **Proteomics | Computational Biology | AI4Science**  
 *PhD Student @ Westlake University*
 
-### 🔬 Current Focus
-- 🧬 Decoding protein dynamics with machine learning @guomics-lab
-- ⚡ Building predictive models for proteomics datasets
-
-
+Big fan for ~~ye~~ and tyler
 > *"never a master, Always a student"*
 >
 > 
